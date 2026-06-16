@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Silencio compartido
+
+This log tracks the cryptographic history and versioning for the song **Silencio compartido** (silencio-compartido).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T13:34:09.318923 | `v1` | `a14068dbacdbc70fc93994fb99e4da88ca1c73b5359fc394fd76f8a698ccbc2d` | `02ab3b3c7f1525da76d2df16cefeff34b57e93c8d139b837a49e47dd968febcf` | `2026-06-16_silencio-compartido-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
