@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/silencio-compartido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Silencio compartido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/silencio-compartido/) |
+| **Get License** | [Commercial Licensing for Silencio compartido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/silencio-compartido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Step into the neon, I can see it in your eyes
+> We don't need a reason, just the rhythm and the vibes
+> Moving through the shadows, yeah, we take it to the floor
+> Every time you look at me, you leave me wanting more
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
